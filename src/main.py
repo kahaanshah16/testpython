@@ -29,4 +29,4 @@ def add_numbers(a: float, b: float) -> float:
 
 if __name__ == "__main__":
     print(greet("World"))
-    print(f"2 + 3 = {add_numbers(2, 3)}") 
+    print(f"3 + 3 = {add_numbers(2, 3)}") 
